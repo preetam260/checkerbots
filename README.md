@@ -16,8 +16,7 @@ latency measurement, simulation benchmarking, and plug-and-play bot design.
 - ⚡ Performance metrics:
   - Average FPS (~9 FPS in default config)
   - Execution time per game (~5s)
-  - Win rate across 500+ games (>70% for `AlgoBot` vs. baseline bots)
-  - Move decision latency (avg & 99th percentile)
+  - Win rate across 80+ games (>70% for `AlgoBot` vs. baseline bots)
 
 ---
 
