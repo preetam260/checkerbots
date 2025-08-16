@@ -1,8 +1,7 @@
 # ♟️ Checker-bots
 
 An interactive **Checkers game with AI-powered bots**, built with **Python, PyQt5, and Pygame**.  
-Includes heuristic and search-based strategies (`AlgoBot`, `Group1`, `Group2`) with support for  
-latency measurement, simulation benchmarking, and plug-and-play bot design.
+Includes heuristic and search-based strategies (`AlgoBot`, `Group1`, `Group2`) with support for, simulation benchmarking, and plug-and-play bot design.
 
 ---
 
